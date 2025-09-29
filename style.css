@@ -1,0 +1,40 @@
+body {
+    background-color: ghostwhite;
+    font-family: arial;
+}
+
+h1 {
+    background-color: maroon;
+    color: white;
+}
+
+h3 {
+    color: blue;
+}
+
+figure {
+    border-style: solid;
+    border-color: lightgrey;
+    border-width: 1px;
+    padding: 1em;
+    margin: 2em;
+}
+
+ul {
+    background-color: darkmagenta;
+    color: white;
+}
+
+strong, b {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+em, cite, i {
+    background-color: lightgoldenrodyellow;
+    color: saddlebrown
+}
+
+figcaption>span {
+    font-weight: bold;
+}
